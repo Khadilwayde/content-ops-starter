@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Brand Development Specialist
     items:
       - type: FeaturedItem
         title: 500k
