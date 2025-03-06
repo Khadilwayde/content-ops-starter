@@ -35,9 +35,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Untitled-3.png
-        altText: Torte Delizia
-        type: ImageBlock
       - url: /images/SANA logo 21376576ert.png
         altText: SAVÁ
         type: ImageBlock
