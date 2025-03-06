@@ -105,13 +105,8 @@ Known for its luxurious yet welcoming ambiance, it caters to both casual diners 
 
 **Target Audience:** Food enthusiasts, deserts, lovers, and casual diners in Qatar.
 
-
-
 **Logo Concept**
 
-I worked on refining the restaurant's logo to better align with its evolving identity. While the original Design had a charming "cute" aesthetic, it no longer reflected the sophistication and luxury the restaurant aims to embody. 
+I worked on refining the restaurant's logo to better align with its evolving identity. While the original Design had a charming "cute" aesthetic, it no longer reflected the sophistication and luxury the restaurant aims to embody.
 
-To elevate the brand's visual appeal, I introduced finer lines, a more elegant fonts and vintage crest to give the vintage feel to it. 
-
-![](/images/img-placeholder.svg)
-
+To elevate the brand's visual appeal, I introduced finer lines, a more elegant fonts and vintage crest to give the vintage feel to it.![](https://preview--regal-cranachan-3d9348-9a667.stackbit.dev/_static/app-assets/public/images/Torte%20delizia%20portfolio%201%20-09.png)
