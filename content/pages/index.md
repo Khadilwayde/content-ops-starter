@@ -39,7 +39,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Untitled-3.png
-        altText: Wellster logo
+        altText: Torte Delizia
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
