@@ -44,7 +44,7 @@ sections:
       - url: /images/SANA logo 21376576ert.png
         altText: SAVÁ
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/occasum1.png
         altText: Contentful logo
         type: ImageBlock
     motion: move-to-left
