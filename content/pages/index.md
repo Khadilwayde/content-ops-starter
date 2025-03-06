@@ -44,8 +44,6 @@ sections:
       - url: /images/SANA logo 21376576ert.png
         altText: SAVÁ
         type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
