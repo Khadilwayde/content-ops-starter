@@ -35,9 +35,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/SANA logo 21376576ert.png
-        altText: SAVÁ
-        type: ImageBlock
       - url: /images/occasum1.png
         altText: OCCASUM
         type: ImageBlock
