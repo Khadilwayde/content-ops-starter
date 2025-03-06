@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Untitled-3.png
-  altText: Case study 1
+  altText: Torte Delizia Case Study
   styles:
     self:
       borderRadius: large
