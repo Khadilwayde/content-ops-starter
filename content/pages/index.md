@@ -34,10 +34,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/occasum1.png
-        altText: OCCASUM
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
