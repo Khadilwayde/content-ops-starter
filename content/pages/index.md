@@ -35,9 +35,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/WhatsApp Image 2025-03-04 at 21.35.02.jpeg
-        altText: Kritiix
-        type: ImageBlock
       - url: /images/Untitled-3.png
         altText: Torte Delizia
         type: ImageBlock
