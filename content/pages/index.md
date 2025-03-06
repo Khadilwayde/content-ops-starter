@@ -41,7 +41,7 @@ sections:
       - url: /images/Untitled-3.png
         altText: Torte Delizia
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/SANA logo 21376576ert.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
