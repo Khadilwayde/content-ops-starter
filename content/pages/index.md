@@ -45,7 +45,7 @@ sections:
         altText: SAVÁ
         type: ImageBlock
       - url: /images/occasum1.png
-        altText: Contentful logo
+        altText: OCCASUM
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
